@@ -1,4 +1,4 @@
-three.js
+three.js  - studying 
 ========
 
 [![NPM Package][npm]][npm-url]
